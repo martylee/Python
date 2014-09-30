@@ -1,6 +1,8 @@
 Python
 ======
 
-Some small program in Python
+Some small program in Python:
+
 mine sweeper
+
 mysql script
